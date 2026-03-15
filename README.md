@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Jonathan leão</h1>
+<h1 align="center">👨‍💻 Jonathan Leão</h1>
 
 <p align="center">
 Meu nome é Jonathan Leão de Oliveira Júnior, moro em Manaus/AM e sou um amante de tecnologia e programação, faço faculdade de Ciência da Computação e estou no terceiro periodo, alem de estar estudando desenvolvimento backend focado em Java.
