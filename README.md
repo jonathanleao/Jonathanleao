@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">👨‍💻 Jonathan leão</h1>
 
-<!--
-**jonathanleao/Jonathanleao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Meu nome é Jonathan Leão de Oliveira Júnior, moro em Manaus/AM e sou um amante de tecnologia e programação, faço faculdade de Ciência da Computação e estou no Terceiro periodo, alem de estar estudando desenvolvimento backend focado em Java.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Linguagens e Tecnologias
+
+<p align="center">
+  
+<img src="https://skillicons.dev/icons?i=java,mysql,git,vscode,idea" />
+
+</p>
+
+---
+
+## 📚 Atualmente estudando
+
+- ☕ Java (POO, coleções, associações, boas práticas)
+- 🗄️ Banco de dados SQL
+
+---
+
+## 🚀 Objetivo
+
+Me tornar um **desenvolvedor backend Java**, construindo APIs robustas e aplicações escaláveis.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📫 Contato
+
+- 📧 Email: Jonathan.oliveirajunior.23@gmail.com
+
+---
+
+<p align="center">
+⭐ Sempre disposto a aprender algo novo
+</p>
