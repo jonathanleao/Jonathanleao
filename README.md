@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Jonathan Leão</h1>
 
 <p align="center">
-Meu nome é Jonathan Leão de Oliveira Júnior, moro em Manaus/AM e sou um amante de tecnologia e programação, faço faculdade de Ciência da Computação e estou no terceiro periodo, alem de estar estudando desenvolvimento backend focado em Java.
+Meu nome é Jonathan Leão de Oliveira Júnior, moro em Manaus/AM e sou um amante de tecnologia e programação, faço faculdade de Ciência da Computação e estou no quarto periodo, alem de estar estudando desenvolvimento backend focado em Java usando frameworks da familia Spring e banco de dados relacionais.
 </p>
 
 ---
@@ -16,16 +16,23 @@ Meu nome é Jonathan Leão de Oliveira Júnior, moro em Manaus/AM e sou um amant
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 C0nhecimentos
 
-- ☕ Java (POO, coleções, associações, boas práticas)
-- 🗄️ Banco de dados SQL
+-  Java
+-  Lógica de programação
+-  Git
+-  framework spring boot
+-  Api REST e RESTful
+-  Spring security
+-  Spring Data Jpa
+-  Docker
+-  Banco de dados SQL
 
 ---
 
 ## 🚀 Objetivo
 
-Me tornar um **desenvolvedor backend Java**, construindo APIs robustas e aplicações escaláveis.
+Me tornar um **desenvolvedor backend Java**, construindo APIs robustas, seguras, e aplicações escaláveis.
 
 ---
 
