@@ -36,7 +36,7 @@ Me tornar um **desenvolvedor backend Java**, construindo APIs robustas, seguras,
 
 ## 📫 Contato
 
-- 📧 Email: Jonathan.oliveirajunior.23@gmail.com
+- 📧 Email: jonathan.oliveirajunior.23@gmail.com
 
 ---
 
